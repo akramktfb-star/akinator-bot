@@ -1,2 +1,2 @@
-python-telegram-bot
-Akinator.py
+flask
+requests
